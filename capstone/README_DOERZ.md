@@ -8,7 +8,7 @@ Folders in demo alpha repo:
 * doerz-alpha202407-web
 * doerz-alpha202407-localserver
 
-This represent 2-4 weeks work on a task rewards platform with ongoing dev in progress.
+This represents 2-4 weeks work on a task rewards platform with ongoing dev in progress.
 
 #### Concept
 
@@ -35,7 +35,7 @@ All aspects of the platform are in progress, with the API and web/web3,js/UI/UX 
 
 A token22 test token was created and deployed on the Solana devnet, and the token ownership task validation is working.
 
-The onchain aspect is in progress, with some parts working and some parts not customized or deployed yet.
+The onchain aspect is in progress, with some parts working and some parts not customized or deployed yet. 
 
 The rewards system is not yet full implemented onchain, or the validation rule system onchain. Some parts are simulated. Some configuration issues are being resolved.
 
