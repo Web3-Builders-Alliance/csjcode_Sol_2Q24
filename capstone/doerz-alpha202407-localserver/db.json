@@ -1,0 +1,478 @@
+{
+  "tasks": [
+    {
+      "taskId": "2e8a13b8-2e8d-6cf1-8a71-1dcb5c3f3f1f",
+      "dateCreated": 1672531200,
+      "dateStarted": 1672704000,
+      "dateModified": 1675219600,
+      "dateExpired": 1721865600,
+      "rewardId": "07b39a18-3e70-6824-8149-6a20c614e1f6",
+      "tags": [
+        "Bonk",
+        "ownership",
+        "memecoin"
+      ],
+      "taskIdName": "doerzalpha-task-8782",
+      "title": "Ownership of token Bonk BONK",
+      "status": "doing",
+      "label": "ownership",
+      "rewardSize": "medium",
+      "brand": "Bonk",
+      "description": "Prove that you have token ownership of Bonk in your Doerz wallet. This task involves buying BONK, such as through Jupiter or Raydium.",
+      "images": [
+        "01.png",
+        "25.png",
+        "08.png",
+        "15.png",
+        "20.png",
+        "22.png"
+      ],
+      "draft": "false",
+      "ownerUser": "csjcodetest",
+      "ownerGroup": "doerzsitepromos",
+      "ownerAdmin": "doerzalpha",
+      "ownerProject": "doerzsitepromos",
+      "ownerOrg": "doerzalpha",
+      "validateType": 100,
+      "dataSource": "jsonServerLocal",
+      "userInstructions": [
+        "Go to a Solana DEX like Jupiter or Raydium",
+        "Confirm correct token, program ID is DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "Buy BONK tokens",
+        "Transfer the tokens to your Doerz wallet",
+        "Go to the Doerz validate page",
+        "Click the validate button"
+      ],
+      "id": "e4dd"
+    },
+    {
+      "taskId": "8d1f1a38-f812-6e4c-b2b9-8f07c6e0c5fc",
+      "dateCreated": 1673136000,
+      "dateStarted": 1673318400,
+      "dateModified": 1675728000,
+      "dateExpired": 1721520000,
+      "rewardId": "3a0b6c32-17c6-6f0d-a897-fd7b06761df4",
+      "tags": [
+        "Bonk",
+        "ownership",
+        "meme"
+      ],
+      "taskIdName": "doerzalpha-task-7878",
+      "title": "Post a Tweet about the new messaging features",
+      "status": "available",
+      "label": "social",
+      "rewardSize": "medium",
+      "brand": "Dialect",
+      "description": "Post a Tweet about the new messaging features on Dialect to spread the word about the latest updates. This task helps in promoting the messaging capabilities of the app and reaching a broader audience on social media.",
+      "images": [
+        "15.png",
+        "05.png",
+        "11.png",
+        "21.png",
+        "12.png",
+        "10.png"
+      ],
+      "draft": "false",
+      "ownerUser": "csjcodetest",
+      "ownerGroup": "",
+      "ownerAdmin": "",
+      "ownerProject": "",
+      "ownerOrg": "",
+      "validateType": 100,
+      "dataSource": "jsonServerLocal",
+      "userInstructions": [
+        "Log in to your Twitter account",
+        "Compose a new Tweet about the messaging features of Dialect",
+        "Include relevant hashtags and mention Dialect",
+        "Attach any images or links that highlight the new features",
+        "Post the Tweet and take a screenshot"
+      ],
+      "id": "eece"
+    },
+    {
+      "taskId": "cb87e1b9-4ecf-6216-a9a3-bae2c0566cbf",
+      "dateCreated": 1675123200,
+      "dateStarted": 1675305600,
+      "dateModified": 1677801600,
+      "dateExpired": 1721520000,
+      "rewardId": "e3e36221-7b57-6815-aaf3-01f60774b108",
+      "tags": [
+        "Doerz.fun",
+        "achievements",
+        "Solana"
+      ],
+      "taskIdName": "doerzalpha-task-7839",
+      "title": "Complete 10 tasks to earn a special Solana badge",
+      "status": "upcoming",
+      "label": "achievements",
+      "rewardSize": "high",
+      "brand": "Doerz.fun",
+      "description": "Complete 10 tasks on Doerz.fun to earn a special Solana badge. This achievement encourages users to engage with the platform and complete various tasks to unlock exclusive rewards and recognition within the Solana community.",
+      "images": [
+        "08.png",
+        "23.png",
+        "01.png",
+        "22.png",
+        "18.png",
+        "12.png"
+      ],
+      "draft": "false",
+      "ownerUser": "csjcodetest",
+      "ownerGroup": "",
+      "ownerAdmin": "",
+      "ownerProject": "",
+      "ownerOrg": "",
+      "validateType": 100,
+      "dataSource": "jsonServerLocal",
+      "userInstructions": [
+        "Log in to your Doerz.fun account",
+        "Navigate to the tasks section",
+        "Select tasks that interest you",
+        "Complete the selected tasks",
+        "Check your profile for the special Solana badge"
+      ],
+      "id": "663a"
+    },
+    {
+      "taskId": "0192cb08-12b9-6746-b7b9-6f96dc4f8e92",
+      "dateCreated": 1677724800,
+      "dateStarted": 1677907200,
+      "dateModified": 1680307200,
+      "dateExpired": 1709260800,
+      "rewardId": "e8b17043-2e1e-6207-94e8-218bb7d6b17d",
+      "tags": [
+        "Realms",
+        "onboarding",
+        "profile"
+      ],
+      "taskIdName": "doerzalpha-task-5562",
+      "title": "Complete your profile setup to start earning rewards",
+      "status": "available",
+      "label": "onboarding",
+      "rewardSize": "medium",
+      "brand": "Realms",
+      "description": "Complete your profile setup on Realms to start earning rewards. This task involves filling out necessary profile information, which enables you to access various reward opportunities and engage fully with the platform.",
+      "images": [
+        "23.png",
+        "15.png",
+        "03.png",
+        "01.png",
+        "17.png",
+        "02.png"
+      ],
+      "draft": "false",
+      "ownerUser": "csjcodetest",
+      "ownerGroup": "",
+      "ownerAdmin": "",
+      "ownerProject": "",
+      "ownerOrg": "",
+      "validateType": 100,
+      "dataSource": "jsonServerLocal",
+      "userInstructions": [
+        "Log in to your Realms account",
+        "Go to your profile settings",
+        "Fill out all required profile information",
+        "Upload a profile picture",
+        "Save your changes to complete the setup"
+      ],
+      "id": "a94b"
+    },
+    {
+      "taskId": "9e528738-c6e6-6274-8f95-e8faec72715a",
+      "dateCreated": 1673020800,
+      "dateStarted": 1673203200,
+      "dateModified": 1675708800,
+      "dateExpired": 1721520000,
+      "rewardId": "d820b7d4-5e9b-67c2-982b-9a3e35c6717d",
+      "tags": [
+        "Solana",
+        "developer",
+        "API"
+      ],
+      "taskIdName": "doerzalpha-task-8686",
+      "title": "Build a new feature for the Solana API",
+      "status": "expired",
+      "label": "developer",
+      "rewardSize": "medium",
+      "brand": "Developer Task",
+      "description": "Build a new feature for the Solana API as part of this developer task. This involves creating and implementing a new feature that enhances the functionality of the Solana blockchain API, contributing to the developer community.",
+      "images": [
+        "02.png",
+        "24.png",
+        "01.png",
+        "18.png",
+        "13.png",
+        "06.png"
+      ],
+      "draft": "false",
+      "ownerUser": "csjcodetest",
+      "ownerGroup": "",
+      "ownerAdmin": "",
+      "ownerProject": "",
+      "ownerOrg": "",
+      "validateType": 100,
+      "dataSource": "jsonServerLocal",
+      "userInstructions": [
+        "Familiarize yourself with the Solana API documentation",
+        "Identify a feature to implement",
+        "Write the code for the new feature",
+        "Test the feature thoroughly",
+        "Submit your code for review"
+      ],
+      "id": "2a2c"
+    },
+    {
+      "taskId": "029b8d2c-3f91-68e7-b6f2-35f55abac5f7",
+      "dateCreated": 1675123200,
+      "dateStarted": 1675305600,
+      "dateModified": 1677801600,
+      "dateExpired": 1721520000,
+      "rewardId": "4a61a6d9-8571-6af2-9dc5-f68a8a7588be",
+      "tags": [
+        "Doerz.fun",
+        "achievements",
+        "rewards"
+      ],
+      "taskIdName": "doerzalpha-task-1280",
+      "title": "Finish your first 5 tasks for extra rewards",
+      "status": "rewarded",
+      "label": "achievements",
+      "rewardSize": "high",
+      "brand": "Doerz.fun",
+      "description": "Finish your first 5 tasks on Doerz.fun to earn extra rewards. This task is designed to incentivize new users to engage with the platform by offering additional rewards for completing initial tasks.",
+      "images": [
+        "14.png",
+        "13.png",
+        "08.png",
+        "05.png",
+        "04.png",
+        "09.png"
+      ],
+      "draft": "false",
+      "ownerUser": "csjcodetest",
+      "ownerGroup": "",
+      "ownerAdmin": "",
+      "ownerProject": "",
+      "ownerOrg": "",
+      "validateType": 100,
+      "dataSource": "jsonServerLocal",
+      "userInstructions": [
+        "Log in to your Doerz.fun account",
+        "Navigate to the tasks section",
+        "Select your first five tasks",
+        "Complete the tasks as instructed",
+        "Check your rewards section for extra rewards"
+      ],
+      "id": "1ad1"
+    },
+    {
+      "taskId": "8e97f1b6-56f8-64d9-a3f6-4e9b9c927d7e",
+      "dateCreated": 1675123200,
+      "dateStarted": 1675305600,
+      "dateModified": 1677801600,
+      "dateExpired": 1706659200,
+      "rewardId": "5fddac5e-8390-67fc-8a92-e4672c9c271e",
+      "tags": [
+        "Solana",
+        "developer",
+        "UTF8"
+      ],
+      "taskIdName": "doerzalpha-task-7262",
+      "title": "Debug Solana's UTF8 parsing issue and submit a fix",
+      "status": "rewarded",
+      "label": "developer",
+      "rewardSize": "high",
+      "brand": "Developer Task",
+      "description": "Debug Solana's UTF8 parsing issue and submit a fix. This task involves identifying and resolving bugs related to UTF8 parsing in the Solana codebase, contributing to the stability and reliability of the platform.",
+      "images": [
+        "18.png",
+        "15.png",
+        "13.png",
+        "25.png",
+        "08.png",
+        "07.png"
+      ],
+      "draft": "false",
+      "ownerUser": "csjcodetest",
+      "ownerGroup": "",
+      "ownerAdmin": "",
+      "ownerProject": "",
+      "ownerOrg": "",
+      "validateType": 100,
+      "dataSource": "jsonServerLocal",
+      "userInstructions": [
+        "Review the Solana codebase",
+        "Locate the UTF8 parsing issue",
+        "Debug and fix the issue",
+        "Test the fix to ensure it works correctly",
+        "Submit the fix for review"
+      ],
+      "id": "b9d5"
+    },
+    {
+      "taskId": "c8969d8f-df7f-6d4b-8eb7-3a32c5dcd1e7",
+      "dateCreated": 1672531200,
+      "dateStarted": 1672704000,
+      "dateModified": 1675219600,
+      "dateExpired": 1721606400,
+      "rewardId": "6d1e8974-c5f2-6827-88e6-b4a8c6c4f271",
+      "tags": [
+        "Realms",
+        "onboarding",
+        "profile"
+      ],
+      "taskIdName": "doerzalpha-task-1138",
+      "title": "Upload your profile picture on Realms",
+      "status": "doing",
+      "label": "onboarding",
+      "rewardSize": "medium",
+      "brand": "Realms",
+      "description": "Upload your profile picture on Realms as part of the onboarding process. Completing this task helps personalize your profile and allows you to fully participate in the platform's activities and reward system.",
+      "images": [
+        "07.png",
+        "05.png",
+        "17.png",
+        "13.png",
+        "08.png",
+        "20.png"
+      ],
+      "draft": "false",
+      "ownerUser": "csjcodetest",
+      "ownerGroup": "",
+      "ownerAdmin": "",
+      "ownerProject": "",
+      "ownerOrg": "",
+      "validateType": 100,
+      "dataSource": "jsonServerLocal",
+      "userInstructions": [
+        "Log in to your Realms account",
+        "Go to your profile settings",
+        "Click on 'Upload Profile Picture'",
+        "Select a picture from your device",
+        "Save your changes"
+      ],
+      "id": "44a1"
+    },
+    {
+      "taskId": "e8f7b53d-965c-6fd4-8c95-9c7e36271cb3",
+      "dateCreated": 1675728000,
+      "dateStarted": 1675910400,
+      "dateModified": 1678406400,
+      "dateExpired": 1707264000,
+      "rewardId": "0a6d2c31-5d5e-6a6b-8f1d-f5a32c671d2f",
+      "tags": [
+        "Phantom",
+        "ownership",
+        "wallet"
+      ],
+      "taskIdName": "doerzalpha-task-7184",
+      "title": "Register a new wallet and verify it",
+      "status": "upcoming",
+      "label": "ownership",
+      "rewardSize": "low",
+      "brand": "Phantom",
+      "description": "Register a new wallet and verify it on Phantom. This task is essential for setting up your digital wallet, ensuring its security, and enabling you to manage your assets on the Solana blockchain.",
+      "images": [
+        "23.png",
+        "07.png",
+        "17.png",
+        "13.png",
+        "08.png",
+        "20.png"
+      ],
+      "draft": "false",
+      "ownerUser": "csjcodetest",
+      "ownerGroup": "",
+      "ownerAdmin": "",
+      "ownerProject": "",
+      "ownerOrg": "",
+      "validateType": 100,
+      "dataSource": "jsonServerLocal",
+      "userInstructions": [
+        "Download and install the Phantom wallet",
+        "Create a new wallet account",
+        "Follow the verification steps provided",
+        "Secure your wallet with a strong password",
+        "Complete the verification process"
+      ],
+      "id": "d8dd"
+    }
+  ],
+  "fundingPool": [
+    {
+      "id": "1",
+      "idPool": "doerzalpha-sd2sd",
+      "poolDisplayName": "doerzalpha-csjcodetest",
+      "creator": "csjcodetest",
+      "dateAmountAdded": [
+        {
+          "date": 1717446387,
+          "amount": 10000
+        }
+      ],
+      "amountCurrent": 10000,
+      "dateCreated": 1717446387,
+      "dateModified": 1717446387,
+      "dateExpired": 1717456387
+    }
+  ],
+  "validate": [
+    {
+      "idValidateType": 100,
+      "name": "ownership",
+      "displayName": "Ownership",
+      "displayDescription": "The task requires the user to verify ownership of a specific item or account.",
+      "displayButtonText": "Check Wallet for Ownership",
+      "id": "5a1f"
+    }
+  ],
+  "favorites": [
+    {
+      "idFavorites": "6ffa13b8-2e8d-6cf1-9g33-1dcb5c3f3f1f",
+      "username": "csjcodetest",
+      "dateModified": 1720153244,
+      "favoritesTaskId": [
+        "2e8a13b8-2e8d-6cf1-8a71-1dcb5c3f3f1f",
+        "0192cb08-12b9-6746-b7b9-6f96dc4f8e92",
+        "8d1f1a38-f812-6e4c-b2b9-8f07c6e0c5fc"
+      ],
+      "favoritesTaskIdName": [
+        "doerzalpha-task-8782",
+        "doerzalpha-task-5562",
+        "doerzalpha-task-7878"
+      ],
+      "id": "011e"
+    }
+  ],
+  "users": [
+    {
+      "idUsers": "6ffa13b8-2e8d-6cf1-9g33-1dcb5c3f3f1f",
+      "username": "csjcodetest",
+      "dateCreated": 1718905943,
+      "dateModified": 1718909943,
+      "id": "011e"
+    }
+  ],
+  "groups": [
+    {
+      "idGroups": "6ffa13b8-2e8d-6cf1-9g33-1dcb5c3f3f1f",
+      "groupname": "doerzfunalpha",
+      "groupnameDisplay": "Doerz.fun Alpha",
+      "groupType": "public",
+      "dateCreated": 1718905943,
+      "dateModified": 1718909943,
+      "id": "011e"
+    }
+  ],
+  "userRewards": [
+    {
+      "idRewards": "2bb6Ty1-2e8d-Frf1-1133-1dcb5c444f1f",
+      "idUser": "6ffa13b8-2e8d-6cf1-9g33-1dcb5c3f3f1f",
+      "dateModified": 1718906143,
+      "rewardsDoerzTotal": 0,
+      "rewardsHistory": [],
+      "rewardsPending": [],
+      "id": "011e"
+    }
+  ]
+}
